@@ -24,14 +24,17 @@ const Student = db.define("student", {
 
   imageURL: {
     type: Sequelize.STRING,
+    defaultValue: "https://www.pngkey.com/png/detail/77-771372_high-school-cap-and-gown-graduation-clipart.png",
+    allowNull: true
   },
 
   gpa: {
-    type: DataTypes.DECIMAL(1, 1),
+    type: Sequelize.DECIMAL(3, 1),
     validate: {
       min: 0.0,
       max: 4.0,
     },
+    allowNull: true
   }
 
 
