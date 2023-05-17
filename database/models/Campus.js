@@ -20,7 +20,13 @@ const Campus = db.define("campus", {
 
   description: {
     type: Sequelize.STRING,
+  },
+
+  imageURL: {
+    type: Sequelize.STRING,
+    defaultValue: "https://img.freepik.com/free-vector/young-people-walking-front-college-university-flat-illustration_74855-14224.jpg?w=2000"
   }
+
 });
 
 // Export the campus model
