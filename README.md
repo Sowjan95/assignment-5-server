@@ -1,4 +1,7 @@
-# server-starter-code
+# Assignment 5 - Final Project Server Side
+
+### Name: Sowjanya Sritharasarma
+### GitHub: Sowjan95
 
 This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
 
