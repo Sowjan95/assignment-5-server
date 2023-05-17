@@ -2,6 +2,7 @@
 
 ### Name: Sowjanya Sritharasarma
 ### GitHub: Sowjan95
+----------
 
 This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
 
