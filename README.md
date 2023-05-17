@@ -4,7 +4,7 @@
 ### GitHub: Sowjan95
 ----------
 
-This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
+This repository is the server (back-end) code for Final Project - Full-Stack CRUD Application.
 
 **Prerequisites**
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
